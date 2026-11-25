@@ -45,8 +45,13 @@ Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
 ## 📂 Featured Projects
 
-- 📊 Sales Data Analysis
-- 📈 Power BI Interactive Dashboard
+### 📈 E-Commerce Sales Dashboard — Power BI
+
+- Created an interactive **Power BI dashboard** to analyze e-commerce sales performance.
+- Developed visualizations for key business metrics such as **Sales and Profit**.
+- Used interactive filters and visuals to explore sales data from different perspectives.
+- Designed the dashboard to make business trends and KPIs easier to understand.
+- Used **Microsoft Power BI** for data visualization and business intelligence reporting.
 
 ---
 
