@@ -47,8 +47,6 @@ Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
 - 📊 Sales Data Analysis
 - 📈 Power BI Interactive Dashboard
-- 🐍 Python Data Analysis Project
-- 🗄️ SQL Business Data Analysis
 
 ---
 
@@ -68,19 +66,17 @@ Aspiring Data Analyst | SQL | Python | Excel | Power BI
   <img src="https://github-readme-stats.vercel.app/api?username=RohitAnuragi&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAnuragi&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/RohitAnuragi">
+  <a href="https://github.com/RohitAnuragi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+
+  <a href="https://www.linkedin.com/in/rohit-anuragi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
